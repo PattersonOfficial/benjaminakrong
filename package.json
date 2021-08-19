@@ -1,0 +1,31 @@
+{
+  "name": "benjaminakrong",
+  "version": "1.0.0",
+  "description": "A super simple but great virtual business card designed with node as a package",
+  "main": "index.js",
+  "bin": {
+    "biz-card": "index.js",
+    "test": "index.js"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PattersonOfficial/benjaminakrong.git"
+  },
+  "keywords": [
+    "business",
+    "card",
+    "benjamin",
+    "akrong",
+    "node",
+    "showoff"
+  ],
+  "author": "Benjamin Akrong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PattersonOfficial/benjaminakrong/issues"
+  },
+  "homepage": "https://github.com/PattersonOfficial/benjaminakrong#readme"
+}
